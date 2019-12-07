@@ -19,4 +19,4 @@
 {
   display: none;
 }
-#wall .parent + .parent
+#wall .parent div + div:last-child

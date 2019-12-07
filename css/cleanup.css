@@ -19,4 +19,7 @@
 {
   display: none;
 }
-#wall .parent div + div:last-child
+#wall .parent div + div:last-child #tag-6
+{
+  display: none;
+}
